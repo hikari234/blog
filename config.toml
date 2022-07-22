@@ -1,9 +1,8 @@
 ##########################################
 # Site Settings
 
-publishDir = docs
-baseURL = "https://hikari234.github.io/"
-title = "Hugo Theme MemE"
+baseURL = "https://hikari234.github.io/blog"
+title = "hikari MemE"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -11,6 +10,7 @@ copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0
 
 # Name of theme
 theme = "meme"
+publishDir = "docs"
 
 # `hugo new` automatically opened text editor
 newContentEditor = ""
